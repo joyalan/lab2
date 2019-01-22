@@ -1,5 +1,5 @@
 NAME: Alan Joy
-PHOTO: ![shel](Shel.png)
+PHOTO: ![shel](images/Shel.png)
 GRADUATION: 2020
 PROJECT SUB-AREA: RPI Mobile Course Management project from RCOS
 
